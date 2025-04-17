@@ -35,3 +35,6 @@ A side-by-side bar chart shows production plans from both models.
 - Python 3
 - PulP
 - Matplotlib
+
+  ## Output
+  ![Image](https://github.com/user-attachments/assets/0e129b07-76ee-4782-a6d8-794c72041050)
